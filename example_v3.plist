@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>loading_icon.png</key>
+            <key>tt/loading_icon.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -59,13 +59,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>example.png</string>
+            <string>example_v3.png</string>
             <key>size</key>
             <string>{435,723}</string>
             <key>smartupdate</key>
             <string>$TexturePacker:SmartUpdate:3e5e50800cb708b349242dfcb65f4850:8c2edaece130755ff375fbd69400c454:5246d9be13f708e02d36faec0abff7f8$</string>
             <key>textureFileName</key>
-            <string>example.png</string>
+            <string>example_v3.png</string>
         </dict>
     </dict>
 </plist>

@@ -18,4 +18,4 @@ python TextureUnPacker.py sample.plist
 
 #### Todo
 
-Now, TextureUnPacker only support TexturePacker plist with format v3. It is better to support format v1, v2 and json format.
+Now, TextureUnPacker only support TexturePacker plist with format v2 and v3. It is better to support format v0, v1 and json format.

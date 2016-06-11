@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>me.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{430,635}}</string>
+				<key>offset</key>
+				<string>{2,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{639,639}</string>
+			</dict>
+			<key>meitu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,638},{79,112}}</string>
+				<key>offset</key>
+				<string>{46,27}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,200}</string>
+			</dict>
+			<key>tt/loading_icon.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,752},{37,38}}</string>
+				<key>offset</key>
+				<string>{-1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,39}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>example_v2.png</string>
+			<key>realTextureFileName</key>
+			<string>example_v2.png</string>
+			<key>size</key>
+			<string>{432,791}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>432</integer>
+			<key>height</key>
+			<integer>791</integer>
+		</dict>
+	</dict>
+</plist>
