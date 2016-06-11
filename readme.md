@@ -7,7 +7,7 @@ TexturePacker depend on PIL, you should install PIL first.
 You can install Pillow instead of PIL.
 
 ```
-pip install -y Pillow
+pip install Pillow
 ```
 
 #### Usage
