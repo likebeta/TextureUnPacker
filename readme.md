@@ -2,7 +2,7 @@ split image which packed by TexturePacker to little images with help of plist fi
 
 #### setup
 
-TexturePacker depend on PIL, you should install PIL first.
+TextureUnPacker depend on PIL, you should install PIL first.
 
 You can install Pillow instead of PIL.
 
